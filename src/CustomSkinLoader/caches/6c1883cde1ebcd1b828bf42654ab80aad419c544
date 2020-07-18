@@ -1,0 +1,8 @@
+{
+  "id" : "98b7a77bcd654f72ad91a6c399f1921e",
+  "name" : "Test1",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTU5NDg3NjA3OTk4MSwKICAicHJvZmlsZUlkIiA6ICI5OGI3YTc3YmNkNjU0ZjcyYWQ5MWE2YzM5OWYxOTIxZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUZXN0MSIsCiAgInRleHR1cmVzIiA6IHsgfQp9"
+  } ]
+}

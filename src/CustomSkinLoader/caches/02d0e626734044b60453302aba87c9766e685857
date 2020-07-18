@@ -1,0 +1,9 @@
+{
+  "id" : "3fb7eb4d29834087b8e879a8a1752768",
+  "name" : "test5",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTU5NTA5MTQwOTY0MiwKICAicHJvZmlsZUlkIiA6ICIzZmI3ZWI0ZDI5ODM0MDg3YjhlODc5YThhMTc1Mjc2OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJ0ZXN0NSIsCiAgInRleHR1cmVzIiA6IHsgfQp9"
+  } ],
+  "legacy" : true
+}
