@@ -1,0 +1,18 @@
+{
+  "name" : "SkyFactory4",
+  "title" : "天空工厂4",
+  "gameVersion" : "1.12.2",
+  "features" : [ ],
+  "userFiles" : {
+    "include" : [
+      "options.txt",
+      "optionsshaders.txt"
+    ],
+    "exclude" : [ ]
+  },
+  "launch" : {
+    "flags" : [
+      "-Dfml.ignoreInvalidMinecraftCertificates=true"
+    ]
+  }
+}
